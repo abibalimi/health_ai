@@ -1,2 +1,5 @@
+.python-version
 health_*
 imaging_*
+notebooks/
+*.ipynb
